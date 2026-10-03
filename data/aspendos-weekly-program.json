@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-10-03",
   "catalog": {
     "activities": {
       "yoga": {
@@ -64,6 +64,15 @@
           "de": "Abendshow",
           "sk": "Večerná show"
         }
+      },
+      "remote-test": {
+        "category": "sports",
+        "labels": {
+          "tr": "UZAKTAN VERİ TESTİ",
+          "en": "REMOTE DATA TEST",
+          "de": "REMOTE-DATENTEST",
+          "sk": "TEST VZDIALENÝCH DÁT"
+        }
       }
     },
     "locations": {
@@ -99,7 +108,15 @@
     "wednesday": [],
     "thursday": [],
     "friday": [],
-    "saturday": [],
+    "saturday": [
+      {
+        "start": "21:00",
+        "end": "23:59",
+        "title": "remote-test",
+        "location": "main-pool",
+        "category": "sports"
+      }
+    ],
     "sunday": []
   }
 }
