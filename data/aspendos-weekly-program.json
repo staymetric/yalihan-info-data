@@ -1,0 +1,105 @@
+{
+  "updated": "2026-09-29",
+  "catalog": {
+    "activities": {
+      "yoga": {
+        "category": "sports",
+        "labels": {
+          "tr": "Yoga",
+          "en": "Yoga",
+          "de": "Yoga",
+          "sk": "Yoga"
+        }
+      },
+      "darts": {
+        "category": "games",
+        "labels": {
+          "tr": "Dart",
+          "en": "Darts",
+          "de": "Darts",
+          "sk": "Šípky"
+        }
+      },
+      "beach-volleyball": {
+        "category": "sports",
+        "labels": {
+          "tr": "Plaj Voleybolu",
+          "en": "Beach Volleyball",
+          "de": "Beachvolleyball",
+          "sk": "Plážový volejbal"
+        }
+      },
+      "boccia": {
+        "category": "games",
+        "labels": {
+          "tr": "Boccia",
+          "en": "Boccia",
+          "de": "Boccia",
+          "sk": "Boccia"
+        }
+      },
+      "table-tennis": {
+        "category": "games",
+        "labels": {
+          "tr": "Masa Tenisi",
+          "en": "Table Tennis",
+          "de": "Tischtennis",
+          "sk": "Stolný tenis"
+        }
+      },
+      "live-music": {
+        "category": "music",
+        "labels": {
+          "tr": "Canlı Müzik",
+          "en": "Live Music",
+          "de": "Live-Musik",
+          "sk": "Živá hudba"
+        }
+      },
+      "evening-show": {
+        "category": "show",
+        "labels": {
+          "tr": "Akşam Şovu",
+          "en": "Evening Show",
+          "de": "Abendshow",
+          "sk": "Večerná show"
+        }
+      }
+    },
+    "locations": {
+      "lido-bar": {
+        "labels": {
+          "tr": "Lido Pool Bar",
+          "en": "Lido Pool Bar",
+          "de": "Lido Pool Bar",
+          "sk": "Lido Pool Bar"
+        }
+      },
+      "beach": {
+        "labels": {
+          "tr": "Plaj",
+          "en": "Beach",
+          "de": "Strand",
+          "sk": "Pláž"
+        }
+      },
+      "main-pool": {
+        "labels": {
+          "tr": "Ana Havuz",
+          "en": "Main Pool",
+          "de": "Hauptpool",
+          "sk": "Hlavný bazén"
+        }
+      }
+    }
+  },
+  "days": {
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  }
+}
